@@ -22,15 +22,15 @@
   color: var(--primery-color);
   background-color: var(--background-color);
 }
-* {
+/* * {
   outline: 1px solid green;
-}
+} */
 .container {
   box-sizing: border-box;
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
-  outline: 1px solid tomato;
+  /* outline: 1px solid tomato; */
 }
 section {
   padding-top: 94px;
